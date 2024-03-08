@@ -1,0 +1,17 @@
+{
+    "id": 37289985,
+    "key": "sicna",
+    "name": "Novas e Avisos",
+    "pages": [
+        {
+            "id": "37093402",
+            "type": "blogpost",
+            "title": "Novo m\u00e9todo de configuraci\u00f3n de eduroam"
+        },
+        {
+            "id": "37093400",
+            "type": "page",
+            "title": "P\u00e1gina de inicio de Novas e Avisos"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 12550153,
+    "key": "rwlayoutkey",
+    "name": "RefinedWiki Layout Space",
+    "pages": [
+        {
+            "id": "11731017",
+            "type": "page",
+            "title": "RefinedWiki Layout Space Home"
+        },
+        {
+            "id": "11731019",
+            "type": "page",
+            "title": "global_space_global_space"
+        },
+        {
+            "id": "11731020",
+            "type": "page",
+            "title": "space_space"
+        },
+        {
+            "id": "11731026",
+            "type": "page",
+            "title": "category_pdi"
+        },
+        {
+            "id": "14712833",
+            "type": "page",
+            "title": "dashboard_dashboard"
+        },
+        {
+            "id": "14712837",
+            "type": "page",
+            "title": "category_fmdlu"
+        },
+        {
+            "id": "14712859",
+            "type": "page",
+            "title": "category_al"
+        },
+        {
+            "id": "14712861",
+            "type": "page",
+            "title": "category_pas"
+        },
+        {
+            "id": "14712862",
+            "type": "page",
+            "title": "space_global_space"
+        },
+        {
+            "id": "37093398",
+            "type": "page",
+            "title": "temp-layout-page_SIC"
+        },
+        {
+            "id": "37093563",
+            "type": "page",
+            "title": "category_prin"
+        },
+        {
+            "id": "131400695",
+            "type": "page",
+            "title": "temp-layout-page_11731019"
+        }
+    ]
+}

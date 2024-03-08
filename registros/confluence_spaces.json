@@ -1,0 +1,706 @@
+[
+    {
+        "id": 2949123,
+        "key": "SIC",
+        "name": "| UDC - AxudaTIC |",
+        "pages": [
+            {
+                "id": "52822683",
+                "type": "blogpost",
+                "title": "Aviso de parada das aplicacións Epsilon e do Portal do persoal por tarefas de mantemento"
+            },
+            {
+                "id": "52823786",
+                "type": "blogpost",
+                "title": "Aviso de mantemento dos laboratorios B e A na Fac. de Ciencias da Comunicación"
+            },
+            {
+                "id": "55705640",
+                "type": "blogpost",
+                "title": "Aviso sobre UXXI-EC"
+            },
+            {
+                "id": "56623176",
+                "type": "blogpost",
+                "title": "Aviso sobre correos electrónicos fraudulentos"
+            },
+            {
+                "id": "56623201",
+                "type": "blogpost",
+                "title": "Fin do soporte nos equipos que teñan instalado o sistema operativo Windows 7"
+            },
+            {
+                "id": "56623204",
+                "type": "blogpost",
+                "title": "Aviso de erro de licenzamento Adobe Professional nos postos de traballo na udc"
+            },
+            {
+                "id": "59345223",
+                "type": "blogpost",
+                "title": "Mantementos centros de transformación e grupos electróxenos UDC - Verán 2020"
+            },
+            {
+                "id": "65339879",
+                "type": "blogpost",
+                "title": "Novas normas de uso dos recursos e servizos TIC na UDC"
+            },
+            {
+                "id": "65339905",
+                "type": "blogpost",
+                "title": "Microsoft Teams: cambio na forma de almacenar as gravacións de reunións en Teams."
+            },
+            {
+                "id": "66978765",
+                "type": "blogpost",
+                "title": "Actualizacións e melloras no Campus Virtual (moodle)"
+            },
+            {
+                "id": "66979035",
+                "type": "blogpost",
+                "title": "Melloras no rendemento do Campus Virtual (Moodle)"
+            },
+            {
+                "id": "66979039",
+                "type": "blogpost",
+                "title": "Novas funcionalidades no portal do PDI"
+            },
+            {
+                "id": "66979043",
+                "type": "blogpost",
+                "title": "Ampliación da cuota de usuario no Active Directory"
+            },
+            {
+                "id": "66979239",
+                "type": "blogpost",
+                "title": "Cambio na dirección web do moodle vello (moodle.udc.es)"
+            },
+            {
+                "id": "66979241",
+                "type": "blogpost",
+                "title": "Procedeuse a reforzar o cluster de servidores que da servizo de escritorios virtuais (vdi)"
+            },
+            {
+                "id": "66979576",
+                "type": "blogpost",
+                "title": "Versións públicas preliminares en Microsoft Teams. Obter acceso anticipado ás novas características de  Teams."
+            },
+            {
+                "id": "69271577",
+                "type": "blogpost",
+                "title": "Certificado de vinculación coa UDC dispoñible no portal de servizos en múltiples idiomas"
+            },
+            {
+                "id": "69271714",
+                "type": "blogpost",
+                "title": "Solicitude de ausencias no portal do persoal para traballadores con cargo ao capítulo VI"
+            },
+            {
+                "id": "69271717",
+                "type": "blogpost",
+                "title": "Integración coa plataforma de contratación da Xunta de Galicia Plation"
+            },
+            {
+                "id": "70582551",
+                "type": "blogpost",
+                "title": "Cambios na xestión de gravacións en Teams e novas funcionalidades"
+            },
+            {
+                "id": "70582695",
+                "type": "blogpost",
+                "title": "MOI IMPORTANTE: Como asegurar as gravacións de TEAMS para que non poidan ser borradas accidentalmente"
+            },
+            {
+                "id": "71860356",
+                "type": "blogpost",
+                "title": "Imaxes para fondos institucionais dispoñibles para toda a comunidade universitaria"
+            },
+            {
+                "id": "71860445",
+                "type": "blogpost",
+                "title": "Sede electrónica acepta xa certificados de calquera tipo."
+            },
+            {
+                "id": "71860621",
+                "type": "blogpost",
+                "title": "UXXI-EC avanza na tramitación electrónica"
+            },
+            {
+                "id": "71860829",
+                "type": "blogpost",
+                "title": "Acreditación da identidade para a obtención de certificados dixitais para alumnos nos rexistros da UDC"
+            },
+            {
+                "id": "71861043",
+                "type": "blogpost",
+                "title": "Aplicación Consulta de IRPF"
+            },
+            {
+                "id": "71861245",
+                "type": "blogpost",
+                "title": "Nova versión da aplicación de listas de correo"
+            },
+            {
+                "id": "71861532",
+                "type": "blogpost",
+                "title": "Órganos colexiados: xa podemos consultar a nosa pertenza aos órganos colexiados da UDC no portal de servizos."
+            },
+            {
+                "id": "71861703",
+                "type": "blogpost",
+                "title": "Calendarios públicos da Universidade da Coruña"
+            },
+            {
+                "id": "71861837",
+                "type": "blogpost",
+                "title": "Webminar gratuíto de Microsoft sobre como \"Ensinar con Teams ao estudantado\" o martes 6 de xullo ás 10:00 horas"
+            },
+            {
+                "id": "77791635",
+                "type": "blogpost",
+                "title": "Portafirmas: nova versión da aplicación Portafirmas onde se incorporan importantes novidades para os usuarios."
+            },
+            {
+                "id": "77791640",
+                "type": "blogpost",
+                "title": "Equipos de Teams das materias do curso 2021/22 (curso completado)"
+            },
+            {
+                "id": "77791675",
+                "type": "blogpost",
+                "title": "Xa está dispoñible a posibilidade de cambiar a foto de perfil da UDC"
+            },
+            {
+                "id": "79331601",
+                "type": "blogpost",
+                "title": "Vense de unificar a fotografía do perfil do Carmpusvirtual da UDC coa corporativa da TUI"
+            },
+            {
+                "id": "80543763",
+                "type": "blogpost",
+                "title": "So se poderán recuperar as contrasinais das contas da UDC dentro das redes da Universidade."
+            },
+            {
+                "id": "80543888",
+                "type": "blogpost",
+                "title": "Posta en marcha dos enlaces 100G entre os campus de Coruña (Elviña/Zapateira) e Ferrol (Esteiro)"
+            },
+            {
+                "id": "80543931",
+                "type": "blogpost",
+                "title": "Cambio no acceso a Xescampus e a Secretaria Virtual"
+            },
+            {
+                "id": "82411529",
+                "type": "blogpost",
+                "title": "Apple School Manager e Appleid no dominio @udc.es"
+            },
+            {
+                "id": "82411701",
+                "type": "blogpost",
+                "title": "IMPORTANTE: cambios na rede wifi eduroam que esixen unha NOVA CONFIGURACIÓN nos dispositivos dos usuarios"
+            },
+            {
+                "id": "82411889",
+                "type": "blogpost",
+                "title": "IMPORTANTE: Cambio no acceso as aplicacións de Microsoft 365 coa autenticación multifactor"
+            },
+            {
+                "id": "82411943",
+                "type": "blogpost",
+                "title": "Dispoñible a gravación do webminar sobre a autenticación con multifactor e as diapositivas da presentación."
+            },
+            {
+                "id": "82411992",
+                "type": "blogpost",
+                "title": "IMPORTANTE: Novas datas da implantación da autenticación multifactor con Microsoft 365"
+            },
+            {
+                "id": "82412121",
+                "type": "blogpost",
+                "title": "Activación da funcionalidade de envío de correos con distintos alias"
+            },
+            {
+                "id": "84967552",
+                "type": "blogpost",
+                "title": "Activación da autenticación multifactor nas contas do estudantado da UDC o 28 de xaneiro"
+            },
+            {
+                "id": "86311082",
+                "type": "blogpost",
+                "title": "Importante: novas medidas de SEGURIDADE por recomendación das autoridades."
+            },
+            {
+                "id": "86311141",
+                "type": "blogpost",
+                "title": "Implantación da autenticación multifactor para acceder a todas as aplicacións da UDC"
+            },
+            {
+                "id": "86311452",
+                "type": "blogpost",
+                "title": "Novas facilidades para exercer o teu dereito á identidade de xénero na UDC"
+            },
+            {
+                "id": "89161964",
+                "type": "blogpost",
+                "title": "Xa se pode volver asinar co  portafirmas, nos dispositivos  móbiles"
+            },
+            {
+                "id": "89162194",
+                "type": "blogpost",
+                "title": "Posta en marcha rede 100 Gigabit"
+            },
+            {
+                "id": "92572718",
+                "type": "blogpost",
+                "title": "Aumento do tamaño da notificación de cualificacións das actas de Xescampus"
+            },
+            {
+                "id": "92572720",
+                "type": "blogpost",
+                "title": "Xa é posible notificar notas nas actas individuais na secretaría virtual"
+            },
+            {
+                "id": "92572725",
+                "type": "blogpost",
+                "title": "Dispoñible nova versión do tradutor do CIXUG"
+            },
+            {
+                "id": "92572820",
+                "type": "blogpost",
+                "title": "Cambio de denominación da aplicación de conexión ao servizo VPN SSL"
+            },
+            {
+                "id": "104202658",
+                "type": "blogpost",
+                "title": "Recuperación do contrasinal"
+            },
+            {
+                "id": "104202662",
+                "type": "blogpost",
+                "title": "Tenda virtual non operativa"
+            },
+            {
+                "id": "104202668",
+                "type": "blogpost",
+                "title": "Desactivación da autenticación básica de Microsoft"
+            },
+            {
+                "id": "104202670",
+                "type": "blogpost",
+                "title": "Novo sistema no Servizo de Biblioteca"
+            },
+            {
+                "id": "131399843",
+                "type": "blogpost",
+                "title": "Activación en servizos e obtención de conta na UDC de profesorado externo de Sigma"
+            },
+            {
+                "id": "134086673",
+                "type": "blogpost",
+                "title": "Actualizacion ao novoTEAMS Desktop"
+            },
+            {
+                "id": "14713711",
+                "type": "page",
+                "title": "AxudaTIC"
+            },
+            {
+                "id": "20807735",
+                "type": "page",
+                "title": "Catalogo de Servizos"
+            },
+            {
+                "id": "20807794",
+                "type": "page",
+                "title": "Software e aplicacións"
+            },
+            {
+                "id": "20807796",
+                "type": "page",
+                "title": "Posto de traballo"
+            },
+            {
+                "id": "22675559",
+                "type": "page",
+                "title": "Rede de datos, wifi e telefonía"
+            },
+            {
+                "id": "22675561",
+                "type": "page",
+                "title": "UCE"
+            },
+            {
+                "id": "25493669",
+                "type": "page",
+                "title": "Como podo coñecer as características de hardware e sistema operativo do meu Mac"
+            },
+            {
+                "id": "29851669",
+                "type": "page",
+                "title": "Como saber se o meu equipo é de 32 o de 64 bits (Arquitectura)"
+            },
+            {
+                "id": "32899134",
+                "type": "page",
+                "title": "Secretaría Virtual para Estudantes (SVE)"
+            },
+            {
+                "id": "32899238",
+                "type": "page",
+                "title": "Emision da tarxeta universitaria TUI"
+            },
+            {
+                "id": "35759673",
+                "type": "page",
+                "title": "Web e aloxamento"
+            },
+            {
+                "id": "39256401",
+                "type": "page",
+                "title": "Outros servizos"
+            },
+            {
+                "id": "39257161",
+                "type": "page",
+                "title": "Que é AxudaTIC"
+            },
+            {
+                "id": "43254039",
+                "type": "page",
+                "title": "Creación de conta de acceso para novos usuarios"
+            },
+            {
+                "id": "45809717",
+                "type": "page",
+                "title": "AxudaTIC - Vídeo presentación"
+            },
+            {
+                "id": "45810063",
+                "type": "page",
+                "title": "Portal de servizos e recuperacion de contrasinal"
+            },
+            {
+                "id": "45810093",
+                "type": "page",
+                "title": "AxudaTIC | Sen restricións"
+            },
+            {
+                "id": "52823822",
+                "type": "page",
+                "title": "Portais corporativos (Estudos, PDI e Investigación)"
+            },
+            {
+                "id": "52823835",
+                "type": "page",
+                "title": "Preinscrición de estudos de posgrao propios"
+            },
+            {
+                "id": "57966595",
+                "type": "page",
+                "title": "App UDC.gal"
+            },
+            {
+                "id": "59344041",
+                "type": "page",
+                "title": "Correo: Como comprobo se a miña conta de correo ten configurados reenvíos automáticos ou regras de reenvíos"
+            },
+            {
+                "id": "59344074",
+                "type": "page",
+                "title": "Como recupero o meu contrasinal de servizos por bloqueo ou esquecemento"
+            },
+            {
+                "id": "59344181",
+                "type": "page",
+                "title": "Correo: Como poño un correo electrónico de recuperación"
+            },
+            {
+                "id": "59344203",
+                "type": "page",
+                "title": "Como recupero o meu contrasinal de servizos por bloqueo ou esquecemento co meu certificado dixital da FNMT"
+            },
+            {
+                "id": "59344239",
+                "type": "page",
+                "title": "Indicacions para asegurar a conta de usuario de servizos da UDC"
+            },
+            {
+                "id": "59344358",
+                "type": "page",
+                "title": "Instrucions no caso de roubo do contrasinal"
+            },
+            {
+                "id": "65339931",
+                "type": "page",
+                "title": "UDC passport : usuario"
+            },
+            {
+                "id": "65339995",
+                "type": "page",
+                "title": "Historial de avisos"
+            },
+            {
+                "id": "66978926",
+                "type": "page",
+                "title": "Rexistro de acceso ás Aulas de Estudo da UDC"
+            },
+            {
+                "id": "66979321",
+                "type": "page",
+                "title": "Limpeza de cookies e navegación privada"
+            },
+            {
+                "id": "69271689",
+                "type": "page",
+                "title": "Aviso de posibles cortes de servizo nas redes de datos e telefonía por mantementos eléctricos"
+            },
+            {
+                "id": "71860628",
+                "type": "page",
+                "title": "Aviso de posibles cortes de servizo nas redes de datos e telefonía por mantementos eléctricos (29 a 31 de marzo)"
+            },
+            {
+                "id": "71861295",
+                "type": "page",
+                "title": "Aviso de corte de subministracion electrica por mantementos"
+            },
+            {
+                "id": "71861689",
+                "type": "page",
+                "title": "Como engado os calendarios da UDC ao meu calendario?"
+            },
+            {
+                "id": "71861830",
+                "type": "page",
+                "title": "Horario"
+            },
+            {
+                "id": "71861864",
+                "type": "page",
+                "title": "Sede electronica"
+            },
+            {
+                "id": "71861871",
+                "type": "page",
+                "title": "Secretaría Virtual para Estudantes (SVE) - FAQ"
+            },
+            {
+                "id": "71864628",
+                "type": "page",
+                "title": "Aviso de cortes na rede wifi por mantementos e actualizacións de puntos de acceso."
+            },
+            {
+                "id": "77791936",
+                "type": "page",
+                "title": "Autenticación multifactor para acceso aos servizos da UDC"
+            },
+            {
+                "id": "82411724",
+                "type": "page",
+                "title": "Aviso de posibles cortes de servizo nas redes de datos e telefonía por mantementos eléctricos (decembro 21-xaneiro 22)"
+            },
+            {
+                "id": "82412032",
+                "type": "page",
+                "title": "Fotografía UDC"
+            },
+            {
+                "id": "84967687",
+                "type": "page",
+                "title": "FAQ - Fotografía UDC"
+            },
+            {
+                "id": "89161825",
+                "type": "page",
+                "title": "Autenticacion multifactor"
+            },
+            {
+                "id": "91422743",
+                "type": "page",
+                "title": "Aviso de cortes de subministracion electrica por mantementos Xullo e Agosto 2022"
+            },
+            {
+                "id": "92572638",
+                "type": "page",
+                "title": "Cambio de dominio da conta principal da UDC"
+            },
+            {
+                "id": "92572654",
+                "type": "page",
+                "title": "Cambio de dominio da conta principal da UDC - FAQ"
+            },
+            {
+                "id": "94601609",
+                "type": "page",
+                "title": "Como podo identificar o meu equipo de traballo"
+            },
+            {
+                "id": "111345719",
+                "type": "page",
+                "title": "Tarxeta Europea de Estudante (European Student Card - ESC)"
+            },
+            {
+                "id": "134447184",
+                "type": "page",
+                "title": "Xestion academica"
+            },
+            {
+                "id": "139034963",
+                "type": "page",
+                "title": "FAQ Sede"
+            }
+        ]
+    },
+    {
+        "id": 12550149,
+        "key": "EPub",
+        "name": "Espacio Público",
+        "pages": [
+            {
+                "id": "11730993",
+                "type": "page",
+                "title": "Copy of Contenido dinámico"
+            }
+        ]
+    },
+    {
+        "id": 12550151,
+        "key": "ETest",
+        "name": "Espacio Test",
+        "pages": [
+            {
+                "id": "11730974",
+                "type": "page",
+                "title": "Espacio Test Home"
+            },
+            {
+                "id": "11730976",
+                "type": "page",
+                "title": "Contenido dinámico"
+            },
+            {
+                "id": "11730989",
+                "type": "page",
+                "title": "Troubleshooting articles"
+            },
+            {
+                "id": "11730998",
+                "type": "page",
+                "title": "How-to articles"
+            }
+        ]
+    },
+    {
+        "id": 37289985,
+        "key": "sicna",
+        "name": "Novas e Avisos",
+        "pages": [
+            {
+                "id": "37093402",
+                "type": "blogpost",
+                "title": "Novo método de configuración de eduroam"
+            },
+            {
+                "id": "37093400",
+                "type": "page",
+                "title": "Página de inicio de Novas e Avisos"
+            }
+        ]
+    },
+    {
+        "id": 12550153,
+        "key": "rwlayoutkey",
+        "name": "RefinedWiki Layout Space",
+        "pages": [
+            {
+                "id": "11731017",
+                "type": "page",
+                "title": "RefinedWiki Layout Space Home"
+            },
+            {
+                "id": "11731019",
+                "type": "page",
+                "title": "global_space_global_space"
+            },
+            {
+                "id": "11731020",
+                "type": "page",
+                "title": "space_space"
+            },
+            {
+                "id": "11731026",
+                "type": "page",
+                "title": "category_pdi"
+            },
+            {
+                "id": "14712833",
+                "type": "page",
+                "title": "dashboard_dashboard"
+            },
+            {
+                "id": "14712837",
+                "type": "page",
+                "title": "category_fmdlu"
+            },
+            {
+                "id": "14712859",
+                "type": "page",
+                "title": "category_al"
+            },
+            {
+                "id": "14712861",
+                "type": "page",
+                "title": "category_pas"
+            },
+            {
+                "id": "14712862",
+                "type": "page",
+                "title": "space_global_space"
+            },
+            {
+                "id": "37093398",
+                "type": "page",
+                "title": "temp-layout-page_SIC"
+            },
+            {
+                "id": "37093563",
+                "type": "page",
+                "title": "category_prin"
+            },
+            {
+                "id": "131400695",
+                "type": "page",
+                "title": "temp-layout-page_11731019"
+            }
+        ]
+    },
+    {
+        "id": 16973825,
+        "key": "SIC2",
+        "name": "SIC2",
+        "pages": []
+    },
+    {
+        "id": 12550152,
+        "key": "TU",
+        "name": "Test UDC",
+        "pages": [
+            {
+                "id": "11731013",
+                "type": "page",
+                "title": "Test UDC Home"
+            },
+            {
+                "id": "14712834",
+                "type": "page",
+                "title": "Test Content Formatting"
+            },
+            {
+                "id": "14712840",
+                "type": "page",
+                "title": "Copia de Test UDC Home"
+            }
+        ]
+    }
+]
+

@@ -1,0 +1,22 @@
+{
+    "id": 12550152,
+    "key": "TU",
+    "name": "Test UDC",
+    "pages": [
+        {
+            "id": "11731013",
+            "type": "page",
+            "title": "Test UDC Home"
+        },
+        {
+            "id": "14712834",
+            "type": "page",
+            "title": "Test Content Formatting"
+        },
+        {
+            "id": "14712840",
+            "type": "page",
+            "title": "Copia de Test UDC Home"
+        }
+    ]
+}

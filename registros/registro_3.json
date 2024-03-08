@@ -1,0 +1,27 @@
+{
+    "id": 12550151,
+    "key": "ETest",
+    "name": "Espacio Test",
+    "pages": [
+        {
+            "id": "11730974",
+            "type": "page",
+            "title": "Espacio Test Home"
+        },
+        {
+            "id": "11730976",
+            "type": "page",
+            "title": "Contenido din\u00e1mico"
+        },
+        {
+            "id": "11730989",
+            "type": "page",
+            "title": "Troubleshooting articles"
+        },
+        {
+            "id": "11730998",
+            "type": "page",
+            "title": "How-to articles"
+        }
+    ]
+}
