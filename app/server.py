@@ -25,7 +25,6 @@ def chain():
 
     prompt = ChatPromptTemplate.from_template(TEMPLATE)
     output_parser = StrOutputParser()
-
     chain = prompt | ollama | output_parser
     return chain
 
@@ -34,10 +33,24 @@ def chain():
 async def redirect_root_to_docs():
     return RedirectResponse("/docs")
 
+@app.post("/chat_v2")
+async def getResponse(data):
+
+    chain = prompt | ollama | output_parser
+
+    return chain.astream(data)
+
+
 add_routes(
     app,
-    prompt | ollama,
+    prompt | ollama | output_parser,
     path="/chat",
+)
+
+add_routes(
+    app,
+    Ollama(base_url='http://localhost:11434', model="mistral"),
+    path="/mistral"
 )
 
 # Edit this to add the chain you want to add
