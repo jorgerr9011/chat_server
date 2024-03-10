@@ -1,4 +1,15 @@
 {
-    "nombre": "jorge",
-    "apellido": "rodriguez" 
+    "incidencia": "",
+    "pages": [
+        {
+            "incidencia": "1",
+            "titulo": "Problemas con wifi",
+            "resolucion": "Pruebe a apagar y volver a encender el router"
+        },
+        {
+            "incidencia": "2",
+            "titulo": "Problemas con bluetooth",
+            "resolucion": "Pruebe a apagar y volver a encender el bluetooth del ordenador"
+        } 
+    ]
 }

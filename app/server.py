@@ -5,45 +5,44 @@ from langchain_community.llms import Ollama
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-app = FastAPI()
+app = FastAPI(
+    title="Server chat",
+    version="1.0",
+    description="Simple api server to chat with a model"
+)    
 
-TEMPLATE = """You are a technical support specialist who are specialized in resolve issues, answer queries and provide assistance. /
-Current conversation: 
-{chat_history} 
- 
-User: {input}
-AI:"""
+class modelo :
+    
+    def __init__(self):
+        
+        TEMPLATE = """You are a technical support specialist who are specialized in resolve issues, answer queries and provide assistance. /
+        Current conversation: 
+        {chat_history} 
+        
+        User: {input}
+        AI:"""
 
-ollama = Ollama(base_url='http://localhost:11434', model="mistral")
+        ollama = Ollama(base_url='http://localhost:11434', model="mistral")
 
-prompt = ChatPromptTemplate.from_template(TEMPLATE)
-output_parser = StrOutputParser()
+        prompt = ChatPromptTemplate.from_template(TEMPLATE)
+        output_parser = StrOutputParser()
 
-def chain():
+    def get_chain(self):
 
-    ollama = Ollama(base_url='http://localhost:11434', model="mistral")
-
-    prompt = ChatPromptTemplate.from_template(TEMPLATE)
-    output_parser = StrOutputParser()
-    chain = prompt | ollama | output_parser
-    return chain
+        return self.prompt | self.ollama
+    
+    def get_embeddings(self, text: str):
+        return "fdjs"
 
 
 @app.get("/")
 async def redirect_root_to_docs():
     return RedirectResponse("/docs")
 
-@app.post("/chat_v2")
-async def getResponse(data):
-
-    chain = prompt | ollama | output_parser
-
-    return chain.astream(data)
-
 
 add_routes(
     app,
-    prompt | ollama | output_parser,
+    modelo.get_chain(),
     path="/chat",
 )
 
