@@ -4,9 +4,6 @@ from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_community.document_loaders import JSONLoader
 
-import chromadb
-import os
-
 def save_embeddings(persist_directory: str = "db"):
 
         loader = JSONLoader(
@@ -21,12 +18,9 @@ def save_embeddings(persist_directory: str = "db"):
 
         Chroma.from_documents(documents, OllamaEmbeddings(model="mistral"), persist_directory=persist_directory)
 
-        my_db = Chroma(persist_directory=persist_directory, embedding_function=OllamaEmbeddings(model="mistral"))
-        print(my_db._client.get_collection("langchain").get()['ids'])
-
         print("Finish")
 
-        # retriever = db.as_retriever()
+        #retriever = db.as_retriever()
         #return db.as_retriever()
 
 
@@ -47,8 +41,6 @@ def main():
     print("Starting")
 
     persist_directory = "./db"
-
-    # Quizás aquí tengo que procesar un poco más como meto los documentos
 
     try: 
         #delete_db(persist_directory)
