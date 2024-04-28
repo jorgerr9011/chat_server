@@ -1,1 +1,164 @@
-[]
+[
+    {
+        "__v": 0,
+        "_id": "662685ba126a5aba6f08fb64",
+        "createdAt": "2024-04-22T15:43:54.894000",
+        "description": "Tengo un problema de conectividad en mi pc.",
+        "name": "Problema con wifi",
+        "status": "OPEN",
+        "updatedAt": "2024-04-22T15:43:54.894000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277dbf44bdcef678567671",
+        "createdAt": "2024-04-23T09:22:07.802000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til y no se como solucionarlo.",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:22:07.802000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277dfc44bdcef678567673",
+        "createdAt": "2024-04-23T09:23:08.606000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til y no se como solucionarlo.",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:23:08.606000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277e0f44bdcef678567675",
+        "createdAt": "2024-04-23T09:23:27.465000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til y no se como solucionarlo.",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:23:27.465000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277e3a44bdcef678567677",
+        "createdAt": "2024-04-23T09:24:10.410000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til y no se como solucionarlo.",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:24:10.410000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277e9f44bdcef67856767b",
+        "createdAt": "2024-04-23T09:25:51.558000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:25:51.558000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277ee644bdcef67856767d",
+        "createdAt": "2024-04-23T09:27:02.946000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:27:02.946000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277f0644bdcef67856767f",
+        "createdAt": "2024-04-23T09:27:34.673000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:27:34.673000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277f2444bdcef678567681",
+        "createdAt": "2024-04-23T09:28:04.811000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:28:04.811000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277f9644bdcef678567683",
+        "createdAt": "2024-04-23T09:29:58.587000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:29:58.587000"
+    },
+    {
+        "__v": 0,
+        "_id": "66277fe744bdcef678567685",
+        "createdAt": "2024-04-23T09:31:19.158000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:31:19.158000"
+    },
+    {
+        "__v": 0,
+        "_id": "6627801a44bdcef678567687",
+        "createdAt": "2024-04-23T09:32:10.108000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:32:10.108000"
+    },
+    {
+        "__v": 0,
+        "_id": "662780b444bdcef678567689",
+        "createdAt": "2024-04-23T09:34:44.148000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 2",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:34:44.148000"
+    },
+    {
+        "__v": 0,
+        "_id": "6627818674d405acdfbb46e0",
+        "createdAt": "2024-04-23T09:38:14.798000",
+        "description": "ijfoskaokdsopkdsapKDOD",
+        "name": "Problema con wifi",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T09:38:14.798000"
+    },
+    {
+        "__v": 0,
+        "_id": "6627bf27eb2c2a72f6c824c3",
+        "createdAt": "2024-04-23T14:01:11.602000",
+        "description": "Tengo un problema con la conectividad de mi ordenador port\u00e1til. C\u00f3mo deber\u00eda proceder?",
+        "name": "Problema con wifi 5000",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T14:01:11.602000"
+    },
+    {
+        "__v": 0,
+        "_id": "6627c3123f27c179d631fc0c",
+        "createdAt": "2024-04-23T14:17:54.335000",
+        "description": "Tengo un problema de conectividad en mi port\u00e1til.",
+        "name": "Problema con wifi 4000",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T14:17:54.335000"
+    },
+    {
+        "__v": 0,
+        "_id": "6627c38d3f27c179d631fc10",
+        "createdAt": "2024-04-23T14:19:57.574000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til",
+        "name": "Problema con wifi 15000",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T14:19:57.574000"
+    },
+    {
+        "__v": 0,
+        "_id": "6627c5a63f27c179d631fc14",
+        "createdAt": "2024-04-23T14:28:54.147000",
+        "description": "Tengo un problema de conectividad con mi ordenador port\u00e1til.",
+        "name": "Problema con wifi 50000",
+        "status": "OPEN",
+        "updatedAt": "2024-04-23T14:28:54.147000"
+    }
+]
