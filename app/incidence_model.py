@@ -1,9 +1,8 @@
 from langchain_community.llms import Ollama
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder, PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
-from rag import get_retriever
+from .rag import get_retriever
 
 class Llm:
     

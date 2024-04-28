@@ -7,7 +7,7 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder, PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain.chains.query_constructor.base import get_query_constructor_prompt
-from rag import get_retriever, format_docs
+from .rag import get_retriever, format_docs
 
 class QaLlm: 
     
