@@ -1,79 +1,13 @@
 [
     {
         "__v": 0,
-        "_id": "662c1d29531a497f10350a54",
-        "createdAt": "2024-04-26T21:31:21.010000",
-        "description": "jorge",
-        "email": "jorge@gmail.com",
-        "name": "esto es de usuario jorge",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-26T21:31:21.010000"
-    },
-    {
-        "__v": 0,
-        "_id": "662cc1c00fdd25786bceee87",
-        "createdAt": "2024-04-27T09:13:36.956000",
-        "description": "jorge",
-        "email": "jorge@gmail.com",
-        "name": "jorge",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-27T09:13:36.956000"
-    },
-    {
-        "__v": 0,
-        "_id": "662cc1ca0fdd25786bceee90",
-        "createdAt": "2024-04-27T09:13:46.719000",
-        "description": "jorge",
-        "email": "jorge@gmail.com",
-        "name": "jorge",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-27T09:13:46.719000"
-    },
-    {
-        "__v": 0,
-        "_id": "662cc2480fdd25786bceeead",
-        "createdAt": "2024-04-27T09:15:52.884000",
-        "description": "admin",
+        "_id": "662eacc0e7643ee06c93ff0c",
+        "createdAt": "2024-04-28T20:08:32.046000",
+        "description": "Tengo un problema de conectividad en mi ordenador port\u00e1til",
         "email": "admin@gmail.com",
-        "name": "admin",
+        "name": "problema con wifi",
         "solution": "",
         "status": "OPEN",
-        "updatedAt": "2024-04-27T09:15:52.884000"
-    },
-    {
-        "__v": 0,
-        "_id": "662cd36c8592e40505f48856",
-        "createdAt": "2024-04-27T10:29:00.399000",
-        "description": "admin",
-        "email": "admin@gmail.com",
-        "name": "admin",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-27T10:29:00.399000"
-    },
-    {
-        "__v": 0,
-        "_id": "662e4d442885cde423677ebb",
-        "createdAt": "2024-04-28T13:21:08.936000",
-        "description": "useUser",
-        "email": "admin@gmail.com",
-        "name": "prueba useUser",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-28T13:21:08.936000"
-    },
-    {
-        "__v": 0,
-        "_id": "662e68baf4c16a4fe978c09c",
-        "createdAt": "2024-04-28T15:18:18.921000",
-        "description": "Tengo un problema de conectividad en mi ordenador port\u00e1til, como podr\u00eda solucionarlo?",
-        "email": "admin@gmail.com",
-        "name": "Problema con wifi",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-28T15:18:18.921000"
+        "updatedAt": "2024-04-28T20:08:32.046000"
     }
 ]

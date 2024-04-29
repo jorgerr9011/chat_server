@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from langserve import add_routes
-from .qa_model import QaLlm
+#from .qa_model import QaLlm
 from .incidence_model import Llm
 
 app = FastAPI(
@@ -14,13 +14,13 @@ app = FastAPI(
 async def redirect_root_to_docs():
     return RedirectResponse("/docs")
 
-qa = QaLlm()
+#qa = QaLlm()
 
-add_routes(
-    app,
-    qa.chain(),
-    path="/chat",
-)
+#add_routes(
+ #   app,
+  #  qa.chain(),
+   # path="/chat",
+#)
 
 llm = Llm()
 
@@ -30,6 +30,12 @@ add_routes(
     llm.chain(),
     path="/incidence",
 )
+
+#add_routes(
+#    app, 
+#    ollama,
+#    path="/chat"
+#)
 
 # Edit this to add the chain you want to add
 #add_routes(app, NotImplemented)
