@@ -1,123 +1,24 @@
 [
     {
         "__v": 0,
-        "_id": "662fa3a95874633981cb05d0",
-        "createdAt": "2024-04-29T13:42:01.704000",
-        "description": "ksdfj",
+        "_id": "662fbb5a57d2d94e3d00d6bc",
+        "createdAt": "2024-04-29T15:23:06.622000",
+        "description": "Responde solo con un \"hola!\"",
         "email": "admin@gmail.com",
-        "name": "sajdf",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T13:42:01.704000"
+        "name": "prueba1",
+        "solution": "Hola!",
+        "status": "CLOSED",
+        "updatedAt": "2024-04-29T15:25:27.329000"
     },
     {
         "__v": 0,
-        "_id": "662fa3e816b3832687d986a3",
-        "createdAt": "2024-04-29T13:43:04.263000",
-        "description": "saasd",
+        "_id": "662fbb6357d2d94e3d00d6c6",
+        "createdAt": "2024-04-29T15:23:15.282000",
+        "description": "Responde solo con un \"hola!\"",
         "email": "admin@gmail.com",
-        "name": "asdas",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T13:43:04.263000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fa42f16b3832687d986ad",
-        "createdAt": "2024-04-29T13:44:15.027000",
-        "description": "sadad",
-        "email": "admin@gmail.com",
-        "name": "wdad",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T13:44:15.027000"
-    },
-    {
-        "__v": 0,
-        "_id": "662facc7d8655317f3a6e07a",
-        "createdAt": "2024-04-29T14:20:55.401000",
-        "description": "sadas",
-        "email": "admin@gmail.com",
-        "name": "ada",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:20:55.401000"
-    },
-    {
-        "__v": 0,
-        "_id": "662face0d8655317f3a6e084",
-        "createdAt": "2024-04-29T14:21:20.523000",
-        "description": "lsakdlakd",
-        "email": "admin@gmail.com",
-        "name": "sadsak",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:21:20.523000"
-    },
-    {
-        "__v": 0,
-        "_id": "662facf5d8655317f3a6e08e",
-        "createdAt": "2024-04-29T14:21:41.870000",
-        "description": "aslka",
-        "email": "admin@gmail.com",
-        "name": "sadas",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:21:41.870000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fade8d8655317f3a6e098",
-        "createdAt": "2024-04-29T14:25:44.887000",
-        "description": "skajask",
-        "email": "admin@gmail.com",
-        "name": "sdsakjd",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:25:44.887000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fae50d8655317f3a6e0a2",
-        "createdAt": "2024-04-29T14:27:28.685000",
-        "description": "kcjask",
-        "email": "admin@gmail.com",
-        "name": "asdja",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:27:28.685000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fae79d8655317f3a6e0ac",
-        "createdAt": "2024-04-29T14:28:09.148000",
-        "description": "saksa",
-        "email": "admin@gmail.com",
-        "name": "asodk",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:28:09.148000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fb296d8655317f3a6e0b6",
-        "createdAt": "2024-04-29T14:45:42.557000",
-        "description": "jsakdjsa",
-        "email": "admin@gmail.com",
-        "name": "sadjas",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:45:42.557000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fb3f1d8655317f3a6e0c0",
-        "createdAt": "2024-04-29T14:51:29.628000",
-        "description": "ska",
-        "email": "admin@gmail.com",
-        "name": "akdj",
-        "solution": "",
-        "status": "OPEN",
-        "updatedAt": "2024-04-29T14:51:29.628000"
+        "name": "prueba2",
+        "solution": "Hola!",
+        "status": "CLOSED",
+        "updatedAt": "2024-04-29T15:27:52.246000"
     }
 ]

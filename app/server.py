@@ -3,6 +3,7 @@ from fastapi.responses import RedirectResponse
 from langserve import add_routes
 #from .qa_model import QaLlm
 from .incidence_model import Llm
+from .qa_history import LlmChatHistory
 
 app = FastAPI(
     title="Server chat",
@@ -31,11 +32,13 @@ add_routes(
     path="/incidence",
 )
 
-#add_routes(
-#    app, 
-#    ollama,
-#    path="/chat"
-#)
+llmChat = LlmChatHistory()
+
+add_routes(
+    app, 
+    llmChat.chain(),
+    path="/chat"
+)
 
 # Edit this to add the chain you want to add
 #add_routes(app, NotImplemented)
