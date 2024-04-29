@@ -13,7 +13,7 @@ class QaLlm:
     
     def __init__(self):
         
-        self.ollama = Ollama(base_url='http://localhost:11434', model="mistral")
+        self.ollama = Ollama(base_url='http://localhost:11434', model="phi3")
         self.output_parser = StrOutputParser()
         
         self.contextualize_q_system_prompt = """Given a chat history and the latest user question which might reference context in the chat history, formulate /
@@ -51,6 +51,10 @@ class QaLlm:
         else:
             return input["question"]
         
+    def getMessages(self):
+        messages = []
+        return messages
+
     def chain(self):
         
         retriever = get_retriever()

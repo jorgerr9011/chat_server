@@ -18,7 +18,7 @@ def get_retriever():
     text_splitter = CharacterTextSplitter(separator="\n\n", chunk_size=1000, chunk_overlap=200, length_function=len, is_separator_regex=False)
     texts = text_splitter.split_documents(loader)
 
-    embeddings = OllamaEmbeddings(base_url='http://localhost:11434', model="mistral")
+    embeddings = OllamaEmbeddings(base_url='http://localhost:11434', model="phi3")
     db = FAISS.from_documents(texts, embeddings)
 
     return db.as_retriever()
