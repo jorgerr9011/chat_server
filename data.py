@@ -1,6 +1,5 @@
 from pymongo import MongoClient
 import json
-import os
 from bson import ObjectId, Timestamp 
 from datetime import datetime
 
@@ -11,6 +10,17 @@ def default_serializer(obj):
         return str(obj)
     else:
         raise TypeError(f"Object of type {type(obj)} is not JSON serializable")
+
+def delete_fields(d, fields): 
+    if isinstance(d, dict):
+        for field in fields:
+            if field in d:
+                del d[field]
+        for key in d:
+            delete_fields(d[key], fields)
+    elif isinstance(d, list):
+        for item in d:
+            delete_fields(item, fields)
 
 def write_data():
     try:
@@ -23,21 +33,16 @@ def write_data():
         # Fetch data from the collection
         data = incidencias.find()
 
+        fields_to_delete = ["email", "status", "__v", "_id", "createdAt", "updatedAt"] 
         data_json = []
+
         for document in data:
-            #print(document)
-            if "_id" in document and isinstance(document["_id"], ObjectId):
-                document["_id"] = str(document["_id"])
-
-            if "createdAt" in document:
-                document["createdAt"] = default_serializer(document["createdAt"])
-
-            if "updatedAt" in document:
-                document["updatedAt"] = default_serializer(document["updatedAt"])
-
+            delete_fields(document, fields_to_delete)
             data_json.append(document)
-
+            
         datos = json.dumps(data_json, indent=4, sort_keys=True, default=default_serializer)
+
+        print(data_json)
 
         with open('./registros/data.json', 'w') as outfile:
            outfile.write(datos)
@@ -49,10 +54,3 @@ def write_data():
         # Close the connection (optional, client might be garbage collected)
         if client:
             client.close()
-
-
-#if __name__ == "__main__":
- #   get_data()
-
-
-

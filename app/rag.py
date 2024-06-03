@@ -1,3 +1,4 @@
+from pprint import pprint
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.document_loaders.json_loader import JSONLoader
 from langchain_community.vectorstores import FAISS
@@ -10,11 +11,11 @@ def get_retriever():
     
     loader = JSONLoader(
             file_path="./registros/data.json",
-            jq_schema='.',
+            jq_schema='.[]',
             is_content_key_jq_parsable=True,
             text_content=False
         ).load()
-    
+
     text_splitter = CharacterTextSplitter(separator="\n\n", chunk_size=1000, chunk_overlap=200, length_function=len, is_separator_regex=False)
     texts = text_splitter.split_documents(loader)
 
