@@ -42,7 +42,7 @@ def write_data():
             
         datos = json.dumps(data_json, indent=4, sort_keys=True, default=default_serializer)
 
-        print(data_json)
+        #print(data_json)
 
         with open('./registros/data.json', 'w') as outfile:
            outfile.write(datos)

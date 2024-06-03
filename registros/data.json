@@ -38,5 +38,10 @@
         "description": "Tengo un problema para conectarme a la vpn de la universidad.",
         "name": "vpn",
         "solution": ""
+    },
+    {
+        "description": "I have a connectivity problem on my laptop",
+        "name": "Connectivity problem",
+        "solution": "Hello! I see that you are experiencing a connectivity issue on your laptop based on the question. Based on the context provided in the documents, it appears that I don't have enough information to directly assist you with your specific issue. However, I can ask some questions to try and gather more information:\n\n1. What type of connection are you trying to establish (e.g., Wi-Fi, Ethernet, VPN)?\n2. Are you able to connect to any websites or just specific ones?\n3. Have you checked your network settings or firewall rules?\n4. Is this issue happening consistently or intermittently?\n5. Have you tried restarting your modem/router or resetting your network adapter?\n6. Are there any error messages that appear when you try to connect?\n\nIf you're able to provide answers to these questions, please let me know and I can help guide you through potential solutions based on the information. If not, don't worry, just providing some context about your operating system or network setup might be helpful as well. Let me know if you have any other questions or concerns!"
     }
 ]
