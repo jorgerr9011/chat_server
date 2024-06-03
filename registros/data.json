@@ -1,24 +1,13 @@
 [
     {
         "__v": 0,
-        "_id": "662fbb5a57d2d94e3d00d6bc",
-        "createdAt": "2024-04-29T15:23:06.622000",
-        "description": "Responde solo con un \"hola!\"",
+        "_id": "6641f0bcb32b66536aeb717e",
+        "createdAt": "2024-05-13T10:51:40.416000",
+        "description": "Hello, I am currently having a connectivity problem on my computer that is affecting my work. Could you help me solve the problem?",
         "email": "admin@gmail.com",
-        "name": "prueba1",
-        "solution": "Hola!",
+        "name": "Connectivity problem",
+        "solution": "Of course, I'd be happy to help you troubleshoot your connectivity issue. Based on the context provided, I don't see any relevant information about your specific issue in the document you've shared. However, I can ask some questions to try and gather more information:\n\n1. What type of connection are you trying to establish (e.g., Wi-Fi, Ethernet, VPN)?\n2. Are you able to connect to any websites or just specific ones?\n3. Have you checked your network settings or firewall rules?\n4. Is this issue happening consistently or intermittently?\n5. Have you tried restarting your modem/router or resetting your network adapter?\n6. Are there any error messages that appear when you try to connect?\n\nIf you're able to provide answers to these questions, please let me know and I can help guide you through potential solutions based on the information. If not, don't worry, just providing some context about your operating system or network setup might be helpful as well. Sorry I can't help you with that (if there's no additional context provided).",
         "status": "CLOSED",
-        "updatedAt": "2024-04-29T15:25:27.329000"
-    },
-    {
-        "__v": 0,
-        "_id": "662fbb6357d2d94e3d00d6c6",
-        "createdAt": "2024-04-29T15:23:15.282000",
-        "description": "Responde solo con un \"hola!\"",
-        "email": "admin@gmail.com",
-        "name": "prueba2",
-        "solution": "Hola!",
-        "status": "CLOSED",
-        "updatedAt": "2024-04-29T15:27:52.246000"
+        "updatedAt": "2024-05-13T10:52:56.934000"
     }
 ]

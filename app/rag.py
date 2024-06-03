@@ -18,10 +18,10 @@ def get_retriever():
     text_splitter = CharacterTextSplitter(separator="\n\n", chunk_size=1000, chunk_overlap=200, length_function=len, is_separator_regex=False)
     texts = text_splitter.split_documents(loader)
 
-    embeddings = OllamaEmbeddings(base_url='http://localhost:11434', model="phi3")
+    embeddings = OllamaEmbeddings(base_url='http://localhost:11434', model="mistral")
     db = FAISS.from_documents(texts, embeddings)
 
     return db.as_retriever()
 
 def format_docs(docs):
-     return "\n\n".join(doc.page_content for doc in docs)
+    return "\n\n".join(doc.page_content for doc in docs)

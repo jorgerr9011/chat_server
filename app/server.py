@@ -15,17 +15,9 @@ app = FastAPI(
 async def redirect_root_to_docs():
     return RedirectResponse("/docs")
 
-#qa = QaLlm()
-
-#add_routes(
- #   app,
-  #  qa.chain(),
-   # path="/chat",
-#)
-
 llm = Llm()
 
-# Chain que resolverá las incidencias automáticamente
+# Pipeline que resolverá las incidencias automáticamente
 add_routes(
     app,
     llm.chain(),
@@ -34,6 +26,7 @@ add_routes(
 
 llmChat = LlmChatHistory()
 
+# Pipeline que procesará los mensajes del chat
 add_routes(
     app, 
     llmChat.chain(),

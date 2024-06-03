@@ -18,7 +18,7 @@ class Llm:
 
     custom_rag_prompt = PromptTemplate.from_template(template)
 
-    ollama = Ollama(base_url='http://localhost:11434', model="phi3")
+    ollama = Ollama(base_url='http://localhost:11434', model="mistral")
     output_parser = StrOutputParser()
         
 
